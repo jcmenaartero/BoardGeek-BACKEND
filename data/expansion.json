@@ -1,0 +1,65 @@
+[
+    {
+        "name":"Arkham Horror, El juego de cartas: Sangre en el altar",
+        "publisher": "Fantasy Flight",
+        "language":"Español",
+        "thumbnail": "https://juegosdelamesaredonda.com/15657-large_default/arkham-horror-sangre-en-el-altar.jpg",
+        "description":"\"Sangre en el altar\" incluye el Escenario IV de la campaña El legado de Dunwich, con 60 cartas fijas, nuevas cartas de jugador y un nuevo escenario, que puede jugarse de forma independiente o como parte de la campaña El legado de Dunwich.",
+        "price":"14.95",
+        "boardgame_id": "1"
+    },
+    {
+        "name":"Arkham Horror, El juego de cartas: El Essex County Express",
+        "publisher": "Fantasy Flight",
+        "language":"Español",
+        "thumbnail": "http://www.edgeent.com/home/check_public_big_img/edgahc04?timestamp=1644356761871",
+        "description":"\"El Essex County Express\" incluye el Escenario III de la campaña El legado de Dunwich, con 60 cartas fijas, nuevas cartas de jugador y un nuevo escenario, que puede jugarse de forma independiente o como parte de la campaña El legado de Dunwich.",
+        "price":"14.95",
+        "boardgame_id": "1"
+    },
+    {
+        "name":"Arkham Horror, El juego de cartas: El límite del otro lado",
+        "publisher": "Fantasy Flight",
+        "language":"Español",
+        "thumbnail": "http://www.edgeent.com/home/check_public_big_img/ahc21es_m_1?timestamp=1644356814016",
+        "description":"Este pack contiene 60 cartas fijas, con nuevas cartas de Jugador diseñadas para potenciar los mazos existentes, y un nuevo escenario que puede jugarse de forma independiente o como parte de la campaña La era olvidada.",
+        "price":"14.95",
+        "boardgame_id": "1"
+    },
+    {
+        "name":"Bang!: Fiebre del oro",
+        "publisher": "Edge Entertainment",
+        "language":"Español",
+        "thumbnail": "https://static.fnac-static.com/multimedia/Images/ES/NR/c8/60/10/1073352/1540-6/tsp20160822170443/Bang-Fiebre-de-oro-Cartas-Expansion.jpg",
+        "description":"Pero cuidado con los espectrales pistoleros sombra... Sólo tienen un objetivo: ¡acabar contigo! ¿podrás galopar hasta la veta más rica? Bang!: Fiebre del oro es una expansión que hará tus partidas de Bang! aún más divertidas y emocionantes. Para poder jugar necesitas el juego básico.",
+        "price":"16.95",
+        "boardgame_id": "2"
+    },
+    {
+        "name":"Bang! Armados y Peligrosos",
+        "publisher": "Edge Entertainment",
+        "language":"Español",
+        "thumbnail": "http://www.edgeent.com/home/check_public_big_img/eedvba07_product_es?timestamp=1644356918046",
+        "description":"Nueva expansión del juego de mesa Bang!, Armados y peligrosos, en el que nuevos pistoleros llegan a la ciudad, buscando pelea. Además, al almacén acaba de llegar una mercancía bastante peligrosa: armas mortíferas, poderosos accesorios y munición letal..., ¡las cartas Peligrosas! Pero su uso está limitado, y si no eres lo suficientemente rápido, ¡tus enemigos las utilizarán contra ti!",
+        "price":"16.95",
+        "boardgame_id": "2"
+    },
+    {
+        "name":"Catan: Piratas y Exploradores",
+        "publisher": "Devir",
+        "language":"Español",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjqJLHxVaWXHuOICfKrBg9FKcyO-ATMnSiA&usqp=CAU",
+        "description":"Nueva expansión Catan Piratas y Exploradores del gran juego Catán, para disfrutar de hasta cinco nuevos escenarios y tres misiones. A diferencia de una partida normal de Catán, en Piratas y Exploradores el mapa se forma con tres islas diferentes, dos de las cuales empiezan el juego por explorar. ¡Divertido, intrigante y muy entretenido!",
+        "price":"19.95",
+        "boardgame_id": "3"
+    },
+    {
+        "name":"Virus 2 Evolution",
+        "publisher": "Tranjis",
+        "language":"Español",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLiTV67Y1sxoUH-esdPFk048MsuPSnOtK5Q&usqp=CAU",
+        "description":"¡Preparate porque los Virus han evolucionado! Las medicinas convencionales ya no son efectivas contra los nuevos virus mutados. Trata de mantener a raya los virus poniéndolos en cuarentena para evitar su propagación o con medicamentos experimentales no aprobados todavía por la OMS. ¡Hasta podrás sustituir partes de tu cuerpo por el frío metal a prueba de infecciones!",
+        "price":"11.95",
+        "boardgame_id": "4"
+    }
+]

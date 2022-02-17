@@ -1,0 +1,4 @@
+type Mutation {
+    addBoardgame(boardgame: BoardgameInput!): Result!
+ 
+}

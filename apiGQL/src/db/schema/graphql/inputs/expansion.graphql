@@ -1,0 +1,10 @@
+input ExpansionInput {
+    _id: ID
+    name: String!
+    publisher: String!
+    language: String
+    thumbnail: String
+    description: String
+    price: Float!
+    boardgame_id: String!
+}

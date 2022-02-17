@@ -1,0 +1,5 @@
+type Result {
+    status: Boolean!
+    message: String!
+    data: dataDB
+}

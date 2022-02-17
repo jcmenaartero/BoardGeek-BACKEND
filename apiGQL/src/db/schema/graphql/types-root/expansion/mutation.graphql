@@ -1,0 +1,4 @@
+type Mutation {
+    addExpansion(expansion: ExpansionInput!): Result!
+ 
+}
