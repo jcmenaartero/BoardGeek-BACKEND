@@ -1,6 +1,6 @@
 [
     {
-        "_id":"1",
+        "id":"1",
         "title": "Arkham Horror: El juego de cartas",
         "publisher": "Fantasy Flight",
         "language": "Español",
@@ -13,7 +13,7 @@
         "price": 59.99
     },
     {
-        "_id":"2",
+        "id":"2",
         "title": "Bang!: La Bala",
         "publisher": "Edge Entertainment",
         "language": "Español",
@@ -26,7 +26,7 @@
         "price": 39.95
     },
     {
-        "_id":"3",
+        "id":"3",
         "title": "Catan",
         "publisher": "Devir",
         "language": "Español",
@@ -39,7 +39,7 @@
         "price": 35.95
     },
     {
-        "_id":"4",
+        "id":"4",
         "title": "Virus",
         "publisher": "Tranjis",
         "language": "Español",
@@ -52,7 +52,7 @@
         "price": 13.46
     },
     {
-        "_id":"5",
+        "id":"5",
         "title": "Gloomhaven",
         "publisher": "Asmodée",
         "language": "Íngles",

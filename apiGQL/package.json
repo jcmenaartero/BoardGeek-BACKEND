@@ -1,7 +1,7 @@
 {
   "name": "apiBoardGeekGQLMongoDB",
   "version": "1.0.0",
-  "description": "Sistema de Gestion de una Libreria usando GraphQL y MongoDB",
+  "description": "Tienda de juegos de mesa utilizando GraphQL y MongoDB",
   "main": "build/app.js",
   "scripts": {
     "start": "node build/app.js",
@@ -20,7 +20,7 @@
     "apollo-server-express-3",
     "jwt"
   ],
-  "author": "Jose Antonio Morgado <morgado@gmail.com>",
+  "author": "Jose Carlos Menedndez y Juan Carlos Mena",
   "license": "ISC",
   "dependencies": {
     "@graphql-tools/load-files": "^6.4.0",
@@ -28,6 +28,7 @@
     "bcrypt": "^5.0.1",
     "chalk": "^4.1.2",
     "compression": "^1.7.4",
+    "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "graphql": "^15.7.2",

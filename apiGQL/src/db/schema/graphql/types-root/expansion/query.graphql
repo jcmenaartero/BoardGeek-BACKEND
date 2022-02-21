@@ -1,4 +1,5 @@
 
 type Query {
     expansionList: [Expansion]
+    findExpansion(cod:String!): Result!
 }

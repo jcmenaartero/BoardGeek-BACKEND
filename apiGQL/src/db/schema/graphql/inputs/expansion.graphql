@@ -1,5 +1,6 @@
 input ExpansionInput {
     _id: ID
+    cod: String!
     name: String!
     publisher: String!
     language: String

@@ -1,4 +1,5 @@
 
 type Query {
     boardgameList: [Boardgame]
+    findBoardgame(id:String!): Result!
 }

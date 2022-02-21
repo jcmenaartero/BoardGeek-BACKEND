@@ -1,5 +1,6 @@
 [
     {
+        "cod":"1",
         "name":"Arkham Horror, El juego de cartas: Sangre en el altar",
         "publisher": "Fantasy Flight",
         "language":"Español",
@@ -9,6 +10,7 @@
         "boardgame_id": "1"
     },
     {
+        "cod":"2",
         "name":"Arkham Horror, El juego de cartas: El Essex County Express",
         "publisher": "Fantasy Flight",
         "language":"Español",
@@ -18,6 +20,7 @@
         "boardgame_id": "1"
     },
     {
+        "cod":"3",
         "name":"Arkham Horror, El juego de cartas: El límite del otro lado",
         "publisher": "Fantasy Flight",
         "language":"Español",
@@ -27,6 +30,7 @@
         "boardgame_id": "1"
     },
     {
+        "cod":"4",
         "name":"Bang!: Fiebre del oro",
         "publisher": "Edge Entertainment",
         "language":"Español",
@@ -36,6 +40,7 @@
         "boardgame_id": "2"
     },
     {
+        "cod":"5",
         "name":"Bang! Armados y Peligrosos",
         "publisher": "Edge Entertainment",
         "language":"Español",
@@ -45,6 +50,7 @@
         "boardgame_id": "2"
     },
     {
+        "cod":"6",
         "name":"Catan: Piratas y Exploradores",
         "publisher": "Devir",
         "language":"Español",
@@ -54,6 +60,7 @@
         "boardgame_id": "3"
     },
     {
+        "cod":"7",
         "name":"Virus 2 Evolution",
         "publisher": "Tranjis",
         "language":"Español",

@@ -1,13 +1,14 @@
 type Boardgame {
     _id: ID!
+    id: String!
     title: String!
     publisher: String!
     language: String
     dificulty: DificultyEnum
     thumbnail: String
     description: String
-    min_players: Int!
-    max_players: Int!
+    min_players: Int
+    max_players: Int
     play_time: String
     price: Float!
     expansions: [Expansion]
