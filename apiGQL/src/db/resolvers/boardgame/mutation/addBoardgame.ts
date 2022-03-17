@@ -2,6 +2,8 @@ import { IResolvers } from "@graphql-tools/utils";
 import { IResult } from "../../../interfaces/IResult";
 import { IBoardgame } from "../../../interfaces/IBoardgame";
 
+/* Comentario de prueba */
+
 import { Db } from "mongodb";
 
 const mutationAddBoardgameResolvers: IResolvers = {
